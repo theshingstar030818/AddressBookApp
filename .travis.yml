@@ -4,5 +4,5 @@ jdk:
 deploy:
  provider: heroku
  api-key:
-  secure:  04d69853-fc9a-4d8e-91bc-518a0fb865d2
+  secure:  $apiKey
  app: addressbook-sysc4606
